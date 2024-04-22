@@ -1,9 +1,0 @@
-OnboardingPage:
-  Choose_Country_DDL: "//*[@data-id = 'login.chooseCountry']"
-  Choose_Language_DDL: "//*[@data-id = 'login.chooseLanguage']"
-  Confirm_Btn:
-
-LoginPage:
-  Username_Txt_Box: ""
-  Password_Txt_Box: ""
-  Login_Btn: ""
